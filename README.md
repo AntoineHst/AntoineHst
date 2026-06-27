@@ -104,7 +104,7 @@ Quelques chantiers récents (la plupart en repos privés — je peux faire une d
   <a href="https://github.com/AntoineHst"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<p align="center"><i>Ouvert aux opportunités — discutons de comment l'ingénierie augmentée par l'IA peut accélérer votre équipe.</i></p>
+<p align="center"><i>Toujours partant pour échanger sur l'IA appliquée à l'ingénierie logicielle.</i></p>
 
 ---
 
@@ -154,6 +154,6 @@ Recent work (mostly private repos — demo available on request):
 
 📧 [antoinehisette@gmail.com](mailto:antoinehisette@gmail.com) · 🐙 [github.com/AntoineHst](https://github.com/AntoineHst)
 
-*Open to opportunities — let's talk about how AI-augmented engineering can accelerate your team.*
+*Always happy to chat about AI applied to software engineering.*
 
 </details>
