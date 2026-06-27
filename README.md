@@ -84,6 +84,19 @@ Quelques chantiers récents (la plupart en repos privés — je peux faire une d
 
 ---
 
+## 📊 Activité (année en cours)
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AntoineHst&show_icons=true&count_private=true&include_all_commits=false&hide_border=true&theme=tokyonight" alt="stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoineHst&layout=compact&hide_border=true&count_private=true&langs_count=8&theme=tokyonight" alt="top langs">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntoineHst&hide_border=true&theme=tokyonight" alt="streak">
+</p>
+
+---
+
 ## 📫 Me contacter
 
 <p>
