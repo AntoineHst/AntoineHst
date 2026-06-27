@@ -77,19 +77,10 @@ Quelques chantiers récents (la plupart en repos privés — je peux faire une d
 | Projet | Quoi | Stack |
 |--------|------|-------|
 | **Bot de trading algorithmique** | Stratégie de mean-reversion temps réel sur marchés de prédiction, 5 exchanges connectés, analyse de latence, dashboard live | Rust, WebSockets |
-| **SaaS multi-plateformes** | Publier une annonce sur Vinted / Leboncoin / eBay depuis un seul formulaire, app mobile + backend | React Native, Node, Cloudflare |
+| **Assistant IA conversationnel (B2B)** | Agent de support / qualification pour un site e-commerce, en remplacement d'une solution SaaS du marché | TypeScript, LLM |
 | **Jeu MMO tactique** | Jeu navigateur voxel multijoueur (mécaniques type Dofus/Wakfu), univers original | Bun, Three.js |
 | **Usine à logiciels IA** | Pipeline d'agents autonomes idée → MVP testé & reviewé, état persistant, modèles optimisés par rôle | TypeScript |
 | **Toolkit d'agents portable** | Socle réutilisable d'agents (skills, hooks, sous-agents) multi-outils | TypeScript |
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AntoineHst&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoineHst&layout=compact&hide_border=true&count_private=true&theme=tokyonight" alt="top langs">
-</p>
 
 ---
 
@@ -141,7 +132,7 @@ Recent work (mostly private repos — demo available on request):
 | Project | What | Stack |
 |---------|------|-------|
 | **Algorithmic trading bot** | Real-time mean-reversion strategy on prediction markets, 5 connected exchanges, latency analysis, live dashboard | Rust, WebSockets |
-| **Multi-platform SaaS** | Publish a listing to Vinted / Leboncoin / eBay from a single form, mobile app + backend | React Native, Node, Cloudflare |
+| **Conversational AI assistant (B2B)** | Support / qualification agent for an e-commerce site, replacing an off-the-shelf SaaS solution | TypeScript, LLM |
 | **Tactical MMO game** | Multiplayer voxel browser game (Dofus/Wakfu-style mechanics), original universe | Bun, Three.js |
 | **AI software factory** | Autonomous agent pipeline, idea → tested & reviewed MVP, persistent state, per-role optimized models | TypeScript |
 | **Portable agent toolkit** | Reusable agent foundation (skills, hooks, sub-agents) across tools | TypeScript |
