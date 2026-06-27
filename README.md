@@ -2,12 +2,13 @@
 
 <p align="center">
   <b>Ingénieur logiciel full-stack · Pilote d'agents IA</b><br>
-  <i>8 ans à livrer du produit — aujourd'hui, j'orchestre des flottes d'agents IA pour le faire 10× plus vite.</i>
+  <i>Je code depuis mes 15 ans — aujourd'hui, j'orchestre des flottes d'agents IA pour livrer du produit 10× plus vite.</i>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI--driven%20engineering-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI-driven">
-  <img src="https://img.shields.io/badge/8%2B%20ans%20d'expérience-2563eb?style=for-the-badge" alt="8 ans">
+  <img src="https://img.shields.io/badge/~15%20ans%20de%20code-2563eb?style=for-the-badge" alt="15 ans de code">
+  <img src="https://img.shields.io/badge/8%20ans%20en%20pro-7c3aed?style=for-the-badge" alt="8 ans pro">
   <img src="https://img.shields.io/badge/Full--stack-16a34a?style=for-the-badge" alt="Full-stack">
 </p>
 
@@ -19,7 +20,7 @@
 
 ## 👋 En deux phrases
 
-Je suis un ingénieur full-stack avec **8 ans d'expérience** qui a fait un pari : **l'IA n'est pas un assistant, c'est un nouveau paradigme d'ingénierie.** Depuis fin 2025, je conçois, construis et expédie du logiciel de production en orchestrant des **équipes d'agents IA** que j'architecture moi-même — du cadrage produit jusqu'au code testé et reviewé.
+Je suis un ingénieur full-stack qui **code depuis ses 15 ans** (bientôt 15 ans de pratique, dont **8 ans d'expérience professionnelle**) et qui a fait un pari : **l'IA n'est pas un assistant, c'est un nouveau paradigme d'ingénierie.** Depuis fin 2025, je conçois, construis et expédie du logiciel de production en orchestrant des **équipes d'agents IA** que j'architecture moi-même — du cadrage produit jusqu'au code testé et reviewé.
 
 Le résultat : je couvre seul le périmètre d'une petite équipe, sur des stacks très différentes, à une vélocité que le développement « manuel » ne permet pas.
 
@@ -117,7 +118,7 @@ Quelques chantiers récents (la plupart en repos privés — je peux faire une d
 
 ### 👋 In a nutshell
 
-I'm a full-stack engineer with **8+ years of experience** who made a bet: **AI isn't an assistant, it's a new engineering paradigm.** Since late 2025, I design, build and ship production software by orchestrating **teams of AI agents that I architect myself** — from product scoping all the way to tested, reviewed code.
+I'm a full-stack engineer who's **been coding since age 15** (nearly 15 years of practice, including **8 years professionally**) and who made a bet: **AI isn't an assistant, it's a new engineering paradigm.** Since late 2025, I design, build and ship production software by orchestrating **teams of AI agents that I architect myself** — from product scoping all the way to tested, reviewed code.
 
 The outcome: I cover the scope of a small team on my own, across very different stacks, at a velocity manual development can't match.
 
