@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/badge/Full--stack-16a34a?style=for-the-badge" alt="Full-stack">
 </p>
 
+<p align="center">
+  🇫🇷 <b>Français</b> &nbsp;·&nbsp; 🇬🇧 <a href="#-in-english">English version below ↓</a>
+</p>
+
 ---
 
 ## 👋 En deux phrases
@@ -97,3 +101,55 @@ Quelques chantiers récents (la plupart en repos privés — je peux faire une d
 </p>
 
 <p align="center"><i>Ouvert aux opportunités — discutons de comment l'ingénierie augmentée par l'IA peut accélérer votre équipe.</i></p>
+
+---
+
+## 🇬🇧 In English
+
+<details open>
+<summary><b>Click to expand / Cliquer pour déplier</b></summary>
+
+<br>
+
+### 👋 In a nutshell
+
+I'm a full-stack engineer with **8+ years of experience** who made a bet: **AI isn't an assistant, it's a new engineering paradigm.** Since late 2025, I design, build and ship production software by orchestrating **teams of AI agents that I architect myself** — from product scoping all the way to tested, reviewed code.
+
+The outcome: I cover the scope of a small team on my own, across very different stacks, at a velocity manual development can't match.
+
+### 🤖 How I work — AI-augmented engineering
+
+I don't just "prompt a chatbot." I **build the tooling** that makes AI reliable in production:
+
+- **Multi-agent pipelines** — visionary → architect → planner → builder → QA → reviewer, with persistent state and iteration loops. I built my own "software factory" that turns an idea into a tested MVP.
+- **Portable agent harness** — a reusable foundation (conventions, skills, hooks, sub-agents) that works across Claude Code, Codex and Cursor.
+- **Adversarial review & QA** — dedicated agents that actively try to break the code before it ships, instead of passively rubber-stamping it.
+- **Human in the loop** — I stay the architect and decision-maker: AI executes, I design, decide and verify.
+
+> My conviction: **the future of tech hiring is the engineer who can direct agents** — decompose a problem, delegate, verify, integrate. That's exactly what I do every day.
+
+### 🛠️ Stack
+
+**Languages & runtimes:** TypeScript · Rust · Node.js · Bun · Python · Java
+**Front & mobile:** React · React Native · Expo · Tailwind · Three.js
+**Infra & data:** Cloudflare Workers · AWS · Docker · PostgreSQL · Playwright
+
+### 🚀 What I build
+
+Recent work (mostly private repos — demo available on request):
+
+| Project | What | Stack |
+|---------|------|-------|
+| **Algorithmic trading bot** | Real-time mean-reversion strategy on prediction markets, 5 connected exchanges, latency analysis, live dashboard | Rust, WebSockets |
+| **Multi-platform SaaS** | Publish a listing to Vinted / Leboncoin / eBay from a single form, mobile app + backend | React Native, Node, Cloudflare |
+| **Tactical MMO game** | Multiplayer voxel browser game (Dofus/Wakfu-style mechanics), original universe | Bun, Three.js |
+| **AI software factory** | Autonomous agent pipeline, idea → tested & reviewed MVP, persistent state, per-role optimized models | TypeScript |
+| **Portable agent toolkit** | Reusable agent foundation (skills, hooks, sub-agents) across tools | TypeScript |
+
+### 📫 Get in touch
+
+📧 [antoinehisette@gmail.com](mailto:antoinehisette@gmail.com) · 🐙 [github.com/AntoineHst](https://github.com/AntoineHst)
+
+*Open to opportunities — let's talk about how AI-augmented engineering can accelerate your team.*
+
+</details>
