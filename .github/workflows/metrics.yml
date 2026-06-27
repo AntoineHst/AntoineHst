@@ -1,0 +1,45 @@
+name: Metrics
+
+on:
+  # Tous les lundis à 06:00 UTC
+  schedule:
+    - cron: "0 6 * * 1"
+  # Permet de lancer manuellement depuis l'onglet Actions
+  workflow_dispatch:
+  # Régénère aussi quand on pousse sur main
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Génération des stats
+        uses: lowlighter/metrics@latest
+        with:
+          # PAT (classic) avec scope "repo" + "read:user" — voir README setup
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: AntoineHst
+          filename: github-metrics.svg
+
+          # Apparence
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Paris
+
+          # Inclure les repos privés dans les comptes
+          repositories_affiliations: owner, collaborator, organization_member
+          repositories: 100
+
+          # Langages — analyse en profondeur (lit aussi les repos privés via ton PAT)
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          plugin_languages_ignored: >-
+            makefile, cmake, dockerfile, batchfile, shell, powershell,
+            html, css, scss, roff, m4, gnuplot
