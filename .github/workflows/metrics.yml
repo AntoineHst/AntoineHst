@@ -34,10 +34,6 @@ jobs:
           repositories_affiliations: owner, collaborator, organization_member
           repositories: 100
 
-          # Langages — mode standard (par repo, robuste avec plusieurs identités git)
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_limit: 8
-          plugin_languages_ignored: >-
-            makefile, cmake, dockerfile, batchfile, shell, powershell,
-            html, css, scss, roff, m4, gnuplot
+          # NB : plugin langages retiré — metrics attribue les langages par auteur
+          # de commit, or les commits sont signés sous plusieurs identités git.
+          # La stack est présentée explicitement via les badges du README.
