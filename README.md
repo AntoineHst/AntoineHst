@@ -85,6 +85,16 @@ Quelques chantiers récents (la plupart en repos privés — je peux faire une d
 
 ---
 
+## 📊 Activité
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%">
+</p>
+
+<sub>Généré chaque semaine via GitHub Actions — inclut l'activité sur mes repos privés, sans en révéler le contenu.</sub>
+
+---
+
 ## 📫 Me contacter
 
 <p>
