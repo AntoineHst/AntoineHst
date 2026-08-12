@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Full--stack-16a34a?style=for-the-badge" alt="Full-stack">
 </p>
 
-<p align="center">
+<p align="center"> 
   🇫🇷 <b>Français</b> &nbsp;·&nbsp; 🇬🇧 <a href="#-in-english">English version below ↓</a>
 </p>
 
