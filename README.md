@@ -1,7 +1,7 @@
 <h1 align="center">Antoine Hisette</h1>
   
 <p align="center">
-  <b>Ingénieur logiciel full-stack · Pilote d'agents IA</b><br> 
+  <b>Ingénieur logiciel full-stack · Pilote d'agents IA</b><br>  
   <i>Je code depuis mes 15 ans — aujourd'hui, j'orchestre des flottes d'agents IA pour livrer du produit 10× plus vite.</i>
 </p>  
 
