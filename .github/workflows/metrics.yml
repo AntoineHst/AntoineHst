@@ -54,6 +54,7 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
-          # Pas de section « projects » : elle afficherait les noms des repos privés
-          plugin_wakatime_sections: time, languages-graphs, editors
-          plugin_wakatime_limit: 5
+          # Temps total seulement : pas de projets (noms de repos privés), ni langages, ni éditeurs
+          plugin_wakatime_sections: time
+          # Compte aussi le temps classé « Other » (sinon ~la moitié du temps disparaît)
+          plugin_wakatime_languages_other: yes
