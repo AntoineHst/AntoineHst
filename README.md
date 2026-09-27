@@ -25,8 +25,6 @@ I'm especially interested in AI and how it changes the way we build software. I 
 
 ## Activity
 
-<img src="./wakatime.svg" alt="Coding time this week" width="100%">
-
 <img src="./github-metrics.svg" alt="GitHub activity" width="100%">
 
-<sub>Coding time from WakaTime (last 7 days). GitHub activity includes private repositories. Updated daily.</sub>
+<sub>Includes private repositories. Updated daily.</sub>
